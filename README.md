@@ -1,2 +1,2 @@
 # Aggregated rationality emerges from individual irrationality
-Code for replicate the results obtained by Gode & Sunder (1993)
+Code for replicating the results obtained by Gode & Sunder (1993)
